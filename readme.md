@@ -5,9 +5,9 @@ In order to function correcly you have to download [Qres.exe](https://www.softpe
 
 ## Usage
 Usage is simple: 
-- place them in %userprofile% directory (To get there press WIN + R and type "explorer ." )
-- when needed press WIN + R
-- type cr (stands for ChangeResolution)
+- place them in %userprofile% directory (To get there press <kbd>WIN</kbd> + <kbd>R</kbd> and type "`explorer .`" )
+- when needed press <kbd>WIN</kbd> + <kbd>R</kbd>
+- type `cr` (stands for ChangeResolution)
 - done
 
 It's a switcher so you can use to change from FullHD to 2K and vice versa
